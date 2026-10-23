@@ -42,7 +42,7 @@ drobny | Tytuł jest za długi - Google go utnie                   | 10 stron
 drobny | Brak pliku robots.txt                                   | cały sklep
 ```
 
-Pełne raporty: [raport HTML](przyklady/audyt-books.toscrape.com.html) · [raport JSON](przyklady/audyt-books.toscrape.com.json)
+👉 **[Zobacz pełny raport HTML w przeglądarce](https://mikolajskorupka-cpu.github.io/analizator-stron/przyklady/audyt-books.toscrape.com.html)** · [raport JSON](przyklady/audyt-books.toscrape.com.json)
 
 ## Jak uruchomić
 

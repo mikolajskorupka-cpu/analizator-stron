@@ -1,0 +1,15 @@
+# Środowisko Pythona
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Sekrety (klucze API itp.) - nigdy nie trafiają na GitHuba
+.env
+
+# Raporty generowane lokalnie (przykładowy raport trzymamy w przyklady/)
+raporty/
+
+# Edytor / system
+.vscode/
+Thumbs.db
